@@ -2,6 +2,7 @@ from tkinter import*
 from PIL import ImageTk,Image 
 from tkinter import messagebox
 from tkinter import ttk
+qgtdgfuywegd
 import mysql.connector as sqltr
 file=open(".details.txt","a+")
 file.seek(0)
